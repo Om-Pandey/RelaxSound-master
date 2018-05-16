@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="logo_w">210dp</dimen>
+   <dimen name="logo_h">60dp</dimen>
+   <dimen name="tv_time_s">23sp</dimen>
+    <dimen name="bg_custom">20dp</dimen>
+    <dimen name="set_time_magin">15dp</dimen>
+    <dimen name="set_time_padding">9dp</dimen>
+</resources>

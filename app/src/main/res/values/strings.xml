@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RelaxSound</string>
+    <string name="back">Back</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="player">Audio Player</string>
+    <string name="next">Next</string>
+</resources>
